@@ -12,7 +12,7 @@ Time Series Forecasting using Auto Regressive Integrated Moving Average
 - The demo model uses a fixed date range of:
     - Training Window: 2021.04.19 - 2021.05.17
     - Forecasting Window: 2021.05.17 - 2021.05.23
-- While the productio model uses a rolling archetype such that it predicts the next week out each day. (Ideal for Cronjobs)
+- While the production model uses a rolling archetype such that it predicts the next week out each day. (Ideal for Cronjobs)
 - All data has been mutated such that it is not representative of any real-world company's value.
 
 ### Example Demo Outputs
